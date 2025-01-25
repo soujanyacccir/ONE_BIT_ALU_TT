@@ -12,7 +12,7 @@ TEST TINY TAPEOUT FOR ONE BIT ALU
 Explain how your project works
 
 ## How to test
-
+TINY TAPEOUT FOR 1 BIT ALU
 Explain how to use your project
 
 ## External hardware
